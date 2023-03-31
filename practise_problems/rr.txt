@@ -1,0 +1,4 @@
+1. find the second and third  largest element in array.
+2. find the duplicate element in array .
+3. find the missing number in array.
+4. Check whether the string is anagram or not .
